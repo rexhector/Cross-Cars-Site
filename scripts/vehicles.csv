@@ -1,0 +1,15 @@
+﻿Vehicle Key,Vin,License Plate,Status,Vehicle Type,Current Renter,Available Date,Make,Vehicle Model,Vehicle Class,Current Location,Odometer,Fuel Level,Available?,Last Location Update,Telematics Connected,Toll Tag
+16,JTHU9JBH6K2017617,5AMY72,Available,Car,Not Assigned,,Lexus,UX,Lexus UX (2019),Brooklyn,"68,744",7 / 8,Yes,,No,
+17,WDCYC6BJ6KX308670,6APE27,Rental,Car,122 Mujtaba Pervez,,Mercedes-Benz,G-Class,2019 Mercedes Benz G550,Manhattan,"83,703",8 / 8,Yes,,No,
+18,JTHKPAAY1MA103229,4XJM43,Dirty,Car,Not Assigned,,Lexus,LC,Lexus LC500 Convertible (2021),Brooklyn,"17,605",4 / 8,Yes,,No,816540188
+19,2T2BCMEA4PC004993,4YVF84,Dirty,Car,Not Assigned,,Lexus,RX,2023 Lexus RX500h,Brooklyn,"34,387",5 / 8,Yes,,No,00816194538
+20,JTJHKCFZ3R2034159,3EDL92,Dirty,Car,Not Assigned,,Lexus,Nx,2024 Lexus NX 450H+,Brooklyn,"10,299",5 / 8,Yes,,No,00816200636
+21,JTHP9JBH7M2040727,5FKC98,Available,Car,Not Assigned,2025-08-01 00:00:00,Lexus,UX,2021 Lexus UX250h,Manhattan,"31,138",6 / 8,Yes,,No,
+22,3HGGK5H82FM708872,5DTK42,Dirty,Car,Not Assigned,2025-08-01 00:00:00,Honda,Fit,2015 Honda Fit,Brooklyn,"105,438",8 / 8,Yes,,No,
+23,JHMGE8H3XDC080116,5AMY32,Available,,Not Assigned,,Honda,Fit,2013 Honda Fit,Brooklyn,"122,952",8 / 8,Yes,,No,
+24,58ADA1C10MU007011,4YZF24,Dirty,Car,Not Assigned,,Lexus,ES,2021 Lexus ES 300H,Brooklyn,"48,464",6 / 8,Yes,,No,
+2,JTHU9JBH9K2003386,3YNB78,Reserved,Car,Not Assigned,,Lexus,Ux 250h,Lexus UX 250H (2019),Brooklyn,"66,605",8 / 8,Yes,7 days ago,Yes,00816194537
+3,5FNRL6H94KB067872,3FPC29,Out of service,Car,Not Assigned,,Honda,Odyssey,Honda Odyssey Elite (2019),Brooklyn,"72,033",4 / 8,Yes,0 days ago,Yes,816173868
+7,2T2YGMDA6LC052098,3CRA15,Available,Car,Not Assigned,,Lexus,RX 450h,Lexus RX 450h (2020),Brooklyn,"71,864",8 / 8,Yes,528 days ago,Yes,815956314
+8,JTHHP5AY9JA000931,5TMW77,Reserved,Car,Not Assigned,,Lexus,Lc 500,Lexus LC500 (2018),Brooklyn,"129,881",8 / 8,Yes,0 days ago,Yes,816180693
+9,WDDZF8EB4LA743005,4NJN48,Available,Car,Not Assigned,,Mercedes,E350,Mercedes E350 (2020),Brooklyn,"20,844",8 / 8,Yes,674 days ago,Yes,815965503
